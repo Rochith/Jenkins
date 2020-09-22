@@ -1,0 +1,11 @@
+Started by user [8mha:////4Hsscc529ca+2PggQK+qYAWX796gfDSnsjL1Ogg5GSDsAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgZe/dLi1CL9ovzkjMySDAB7C2/zwgAAAA==[0mSeva Rochith
+Running as SYSTEM
+Building in workspace C:\windows\system32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\demo
+[demo] $ cmd /c call C:\windows\TEMP\jenkins4699583853876294524.bat
+
+C:\windows\system32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\demo>echo "Hello World" 
+"Hello World"
+
+C:\windows\system32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\demo>exit 0 
+Triggering a new build of [8mha:////4LLC8IyvuMvPGJBJ8v50Vd7lBZdRsA1ivtRsLV8ItCrAAAAAlB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/az8JBA21AcAJ+qPHb8AAAA=[0mjob1
+Finished: SUCCESS

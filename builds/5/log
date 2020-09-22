@@ -1,0 +1,10 @@
+Started by timer
+Running as SYSTEM
+Building in workspace C:\windows\system32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\demo
+[demo] $ cmd /c call C:\windows\TEMP\jenkins136856023213133465.bat
+
+C:\windows\system32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\demo>echo "Hello World" 
+"Hello World"
+
+C:\windows\system32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\demo>exit 0 
+Finished: SUCCESS
